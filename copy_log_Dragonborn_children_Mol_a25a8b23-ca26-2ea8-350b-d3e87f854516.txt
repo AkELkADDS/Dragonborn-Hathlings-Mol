@@ -1,0 +1,271 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516 
+   Fri 11/07/2025 22:57:00.92 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516 
+ 
+Files found: 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516: 0 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\GUI\metadata.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516: 4 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\Content\[PAK]_Dragonborn_children_Mol\009f745e-ade7-f21a-e572-85200ee66676.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\Content\[PAK]_Dragonborn_children_Mol\6e8ab435-82e4-cb9d-b328-6b848c0591a4.lsf 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516: 2 
+ 
+[LOG] Total files found across all folders: 8 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\Projects\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516 to Projects\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516 
+[DEBUG] Using destination: Projects\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Friday, November 7, 2025 10:57:04 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\
+     Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\Projects\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     702	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\meta.lsx100%  
+	    New File  		  910388	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\thumbnail.png  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :   889.7 k   889.7 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           911090000 Bytes/sec.
+   Speed :           52132.987 MegaBytes/min.
+   Ended : Friday, November 7, 2025 10:57:04 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\Editor\Mods\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516 to "Editor\Mods"\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516 
+[DEBUG] Using destination: Editor\Mods\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Friday, November 7, 2025 10:57:05 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\
+     Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\Editor\Mods\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         0         0         0         0         0         0
+   Bytes :         0         0         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Friday, November 7, 2025 10:57:05 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 0 
+[DEBUG] Successfully copied files: 0 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516: 
+      Total files: 0 
+      Copied successfully: 0 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\Mods\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516 to Mods\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516 
+[DEBUG] Using destination: Mods\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Friday, November 7, 2025 10:57:07 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\
+     Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\Mods\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   11868	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\meta.lsx100%  
+	    New File  		  910388	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\mod_publish_logo.png100%  
+	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\GUI\metadata.lsf100%  
+	    New File  		     137	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         4         4         0         0         0         0
+   Bytes :   901.8 k   901.8 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           461767000 Bytes/sec.
+   Speed :           26422.519 MegaBytes/min.
+   Ended : Friday, November 7, 2025 10:57:07 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 4 
+[DEBUG] Successfully copied files: 4 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516: 
+      Total files: 4 
+      Copied successfully: 4 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\Public\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516 to Public\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516 
+[DEBUG] Using destination: Public\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Friday, November 7, 2025 10:57:08 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\
+     Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\Public\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    8635	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\Content\[PAK]_Dragonborn_children_Mol\009f745e-ade7-f21a-e572-85200ee66676.lsf100%  
+	    New File  		    8604	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\Content\[PAK]_Dragonborn_children_Mol\6e8ab435-82e4-cb9d-b328-6b848c0591a4.lsf100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    16.8 k    16.8 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            17239000 Bytes/sec.
+   Speed :             986.423 MegaBytes/min.
+   Ended : Friday, November 7, 2025 10:57:08 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 0 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 4 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 8 
+[SUMMARY] Total files successfully copied: 16 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 
