@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516 
-   Fri 11/07/2025 22:57:00.92 
+   Fri 11/07/2025 22:57:46.10 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -55,7 +55,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Friday, November 7, 2025 10:57:04 PM
+  Started : Friday, November 7, 2025 10:57:48 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\
      Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\Projects\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\
 
@@ -66,7 +66,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     702	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\meta.lsx100%  
-	    New File  		  910388	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\thumbnail.png  0%  100%  
+	    New File  		  910388	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\thumbnail.png100%  
 
 ------------------------------------------------------------------------------
 
@@ -79,7 +79,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           911090000 Bytes/sec.
    Speed :           52132.987 MegaBytes/min.
-   Ended : Friday, November 7, 2025 10:57:04 PM
+   Ended : Friday, November 7, 2025 10:57:48 PM
 
  
 [DEBUG] Counting source files 
@@ -105,7 +105,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Friday, November 7, 2025 10:57:05 PM
+  Started : Friday, November 7, 2025 10:57:50 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\
      Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\Editor\Mods\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\
 
@@ -123,7 +123,7 @@ SECTION 2: COPY OPERATIONS
    Files :         0         0         0         0         0         0
    Bytes :         0         0         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Friday, November 7, 2025 10:57:05 PM
+   Ended : Friday, November 7, 2025 10:57:50 PM
 
  
 [DEBUG] Counting source files 
@@ -149,7 +149,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Friday, November 7, 2025 10:57:07 PM
+  Started : Friday, November 7, 2025 10:57:51 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\
      Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\Mods\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\
 
@@ -175,7 +175,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           461767000 Bytes/sec.
    Speed :           26422.519 MegaBytes/min.
-   Ended : Friday, November 7, 2025 10:57:07 PM
+   Ended : Friday, November 7, 2025 10:57:51 PM
 
  
 [DEBUG] Counting source files 
@@ -201,7 +201,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Friday, November 7, 2025 10:57:08 PM
+  Started : Friday, November 7, 2025 10:57:53 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\
      Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\Public\Dragonborn_children_Mol_a25a8b23-ca26-2ea8-350b-d3e87f854516\
 
@@ -223,9 +223,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :            17239000 Bytes/sec.
-   Speed :             986.423 MegaBytes/min.
-   Ended : Friday, November 7, 2025 10:57:08 PM
+   Speed :             8619500 Bytes/sec.
+   Speed :             493.211 MegaBytes/min.
+   Ended : Friday, November 7, 2025 10:57:53 PM
 
  
 [DEBUG] Counting source files 
